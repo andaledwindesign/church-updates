@@ -6,6 +6,4 @@ Please choose what you would like to view:
 - 📝 notes.md
 - 📊 sample for github.xlsx
 
-⬅️ ../README.md
-``
 
