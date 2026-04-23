@@ -20,5 +20,4 @@
 
 ---
 
-## 🙌 Preaching
-- 👉 [Preaching](Preaching/)
+# Sunday Service – Preaching
