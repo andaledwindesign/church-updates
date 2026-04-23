@@ -21,4 +21,4 @@
 ---
 
 ## 🙌 Preaching
-- 👉 [Youth Ministry List (Excel)](Preaching/sample for github.xlsx)
+- 👉 [Youth Ministry List (Excel)](Preaching/)
