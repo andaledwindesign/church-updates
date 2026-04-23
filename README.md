@@ -20,4 +20,6 @@
 
 ---
 
-[Sunday Service – Preaching](Preaching/Sunday
+
+## 📖 Preaching
+👉 [Sunday Service – Preaching](Preaching/Sunday Service/)
