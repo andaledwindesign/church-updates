@@ -20,4 +20,4 @@
 
 ---
 
-# Sunday Service – Preaching
+[Sunday Service – Preaching](Preaching/Sunday Service/)
