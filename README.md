@@ -20,5 +20,5 @@
 
 ---
 
-## 🙌 Ministries
-- 👉 [Youth Ministry](ministry
+## 🙌 Preaching
+- 👉 [Youth Ministry List (Excel)](Preaching/sample for github.xlsx)
