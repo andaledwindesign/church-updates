@@ -10,19 +10,15 @@
 - Youth Fellowship – Friday, 6:30 PM
 - Sunday Service – Sunday, 9:00 AM
 
-👉 announcements.md
+👉 [View Announcements](announcements.md)
 
 ---
 
 ## 🎵 Song Lineup
-- 👉 lineup/this-sunday.md
-- 👉 lineup/next-sunday.md
+- 👉 [This Sunday](lineup/this-sunday.md)
+- 👉 [Next Sunday](lineup/next-sunday.md)
 
 ---
 
 ## 🙌 Ministries
-- 👉 ministry/youth.md
-
----
-
-_Last updated: April 2026_
+- 👉 [Youth Ministry](ministry
