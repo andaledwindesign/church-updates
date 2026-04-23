@@ -4,7 +4,7 @@ Please choose what you would like to view:
 
 - 🙏 sermon.md
 - 📝 notes.md
-- 📊 outline.xlsx
+- 📊 sample for github.xlsx
 
 ⬅️ ../README.md
 ``
