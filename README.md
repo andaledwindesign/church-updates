@@ -21,4 +21,4 @@
 ---
 
 ## 🙌 Preaching
-- 👉 [Youth Ministry List (Excel)](Preaching/)
+- 👉 [Preaching](Preaching/)
